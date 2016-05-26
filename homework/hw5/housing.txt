@@ -1,0 +1,4 @@
+100|2000|3|Newberg|Microwave|Pool|Cats
+100|4500|4|Gresham|Fridge|Chandelier|Pool
+100|300|2|Hillsboro|Pets|Microwave|Smoking
+100|4000|1|Portland|Chandelier|Garden|Stove
